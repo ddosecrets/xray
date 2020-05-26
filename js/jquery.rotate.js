@@ -1,0 +1,1 @@
+<html><body>You are being <a href="https://raw.githubusercontent.com/wilq32/jqueryrotate/2.3/jQueryRotate.js">redirected</a>.</body></html>
