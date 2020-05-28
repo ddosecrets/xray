@@ -16,4 +16,4 @@ Bug fixes and feature improvements are most welcome! Please open an issue or mak
 
 ## License
 
-See `LICENSE` file.
+See `LICENSE.md` file.
