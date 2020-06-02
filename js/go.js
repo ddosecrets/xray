@@ -94,7 +94,7 @@ function edit() {
   $('.btn-add, .btn-remove').prop('disabled', false);
   $('.btn-editing').show();
   $('.btn-submitting').hide();
-  $('input[name*="date"]').attr('id', null).datepicker({dateFormat: 'yy-mm-dd', changeMonth: true, changeYear: true, yearRange: "1950:2017"});
+  $('input[name*="date"]').attr('id', null).datepicker({dateFormat: 'yy-mm-dd', changeMonth: true, changeYear: true, yearRange: "1950:2019"});
 }
 
 edit();
@@ -155,7 +155,7 @@ function add(button) {
     });
   });
   checked.prop('checked', true);
-  $('input[name*="date"]').attr('id', null).datepicker({dateFormat: 'yy-mm-dd', changeMonth: true, changeYear: true, yearRange: "1950:2017"});
+  $('input[name*="date"]').attr('id', null).datepicker({dateFormat: 'yy-mm-dd', changeMonth: true, changeYear: true, yearRange: "1950:2019"});
 }
 
 function fillDirector(rowindex)
